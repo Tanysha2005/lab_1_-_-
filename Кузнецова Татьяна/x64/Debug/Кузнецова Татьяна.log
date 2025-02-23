@@ -1,0 +1,6 @@
+﻿  Кузнецова Татьяна.cpp
+C:\EVMB-23-1 computer graphics\Кузнецова\Кузнецова Татьяна\Кузнецова Татьяна.cpp(29,32): warning C4305: аргумент: усечение из "double" в "GLclampf"
+C:\EVMB-23-1 computer graphics\Кузнецова\Кузнецова Татьяна\Кузнецова Татьяна.cpp(29,27): warning C4305: аргумент: усечение из "double" в "GLclampf"
+C:\EVMB-23-1 computer graphics\Кузнецова\Кузнецова Татьяна\Кузнецова Татьяна.cpp(32,25): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\EVMB-23-1 computer graphics\Кузнецова\Кузнецова Татьяна\Кузнецова Татьяна.cpp(32,15): warning C4305: аргумент: усечение из "double" в "GLfloat"
+  Кузнецова Татьяна.vcxproj -> C:\EVMB-23-1 computer graphics\Кузнецова\x64\Debug\Кузнецова Татьяна.exe
